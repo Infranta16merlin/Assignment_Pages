@@ -1,0 +1,35 @@
+.alignment{
+  display: flex;
+}
+
+.hr-lines {
+  padding-left: 7%;
+  position: relative;
+}
+
+.hr-lines-education{
+  padding-left: 7%;
+  position: relative;
+}
+
+.hr-lines:after{
+  content: " ";
+  margin-top: -1%;
+  height: 2px;
+  width: 90%;
+  background: lightgray;
+  display: block;
+  position: relative;
+  right: -169px;
+}
+
+.hr-lines-education:after{
+  content: " ";
+  margin-top: -1%;
+  height: 2px;
+  width: 90%;
+  background: lightgray;
+  display: block;
+  position: relative;
+  right: -269px;
+}

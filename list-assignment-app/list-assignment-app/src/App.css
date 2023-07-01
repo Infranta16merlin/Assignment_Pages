@@ -1,0 +1,165 @@
+/* h3 {
+text-align: center;
+padding-top: 2%;
+padding-right: 39%;
+    position: relative;
+    bottom: 45rem;
+} */
+
+
+table {
+  width: 93%;
+  position: relative;
+  left: 3%;
+  border-collapse: collapse;
+  border: 1px solid black;
+  top: 0rem;
+  margin-top: 2%;
+
+}
+
+footer {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 30px;
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.rightInput{
+  position: relative;
+    left: 27%;
+}
+
+.numberInput{
+  position: relative;
+    width: 3%;
+    left: 10%;
+}
+
+.leftInput {
+  position: relative;
+    left: -7%;
+}
+
+.pageInput{
+  position: relative;
+    right: -42%;
+    width: 6%;
+}
+.employee-list {
+  position: relative;
+    right: -25%;
+    margin-top: 8%;
+    margin-right: 30%;
+    background-color: blue;
+}
+
+.list {
+  position: relative;
+    top: -21%;
+    padding-right: 8%;
+    text-align: center;
+    padding-left: 0%;
+    margin-right: 3%;
+}
+
+.heading{
+  display: flex;
+  padding-top: 3%;
+  position: relative;
+  left: 25%;
+}
+
+.heading-top {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 7%;
+}
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 76%;
+  background-color: white;
+  position: relative;
+    left: 24%;
+    padding-top: 0%;
+    margin-top: -59%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+.side-heading{
+  text-align: center;
+padding-top: 2%;
+padding-right: 39%;
+    position: relative;
+    bottom: 0rem;
+}
+.social-icons {
+  justify-self: center;
+  display: flex;
+  padding-bottom: 1rem;
+  position: relative;
+  margin-top: 2%;
+}
+
+.sidebar {
+  position: relative;
+    top: -59px;
+    border: 1px solid white;
+    padding: 10px;
+    box-shadow: 5px 10px white;
+    height: 50rem;
+    left: 0;
+    border: 2px;
+    width: 24%;
+    background: white;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    row-gap: 1rem;
+    box-shadow: var(--clr-red-dark);
+    transition: var(--transition);
+    transform: translate(0);
+}
+
+li {
+  padding-bottom: 24px;
+}
+
+.sidebar-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  padding-bottom: 44%;
+}
+
+
+.color {
+  background-color: green;
+  border-radius: 25px;
+  width: 119%;
+  height: 31px;
+}
+
+.color_selected { 
+   background-color:goldenrod;
+   border-radius: 25px;
+   width: 119%;
+   height: 31px;
+}
+
+th, td {
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}

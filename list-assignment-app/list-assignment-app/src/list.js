@@ -1,0 +1,78 @@
+import React from 'react';
+
+export const list = [
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        'mainId' : '#MP001K',
+        "floor": "04",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1001.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+        'mainId' : '#MP006K',
+        "floor": "06",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1002.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'leave',
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        'mainId' : '#MP009K',
+        "floor": "05",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1003.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+    {
+        "id": 4,
+        "name": "Patricia Lebsack",
+        'mainId' : '#MP005K',
+        "floor": "05",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1004.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+    {
+        "id": 5,
+        "name": "Chelsey Dietrich",
+        'mainId' : '#MP001K',
+        "floor": "04",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1005.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+    {
+        "id": 6,
+        "name": "Mrs. Dennis Schulist",
+        'mainId' : '#MP005K',
+        "floor": "05",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1006.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+        
+    },
+    {
+        "id": 7,
+        "name": "Kurtis Weissnat",
+        'mainId' : '#MP003K',
+        "floor": "04",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1007.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+    {
+        "id": 8,
+        "name": "Nicholas Runolfsdottir V",
+        'mainId' : '#MP003K',
+        "floor": "04",
+        "profilepicture": "https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1008.jpeg",
+        'joinedOn' : 'May 12 2023 3.30PM',
+        'status' : 'working',
+    },
+   
+];
